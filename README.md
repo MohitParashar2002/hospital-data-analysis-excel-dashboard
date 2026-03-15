@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Hospital Excel Dashboard](hospital_dashboard_preview.png)
+![Hospital Excel Dashboard](Hospital_Dashboard_preview.png)
 
 ## Project Overview
 
